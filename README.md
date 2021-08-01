@@ -18,7 +18,7 @@
 
 ```
 $ git clone https://github.com/muskanrastogi1/Stonks-Backend.git
-$ cd Stonks-Backend
+$ cd backend
 $ npm install
 ```
 
