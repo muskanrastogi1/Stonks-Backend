@@ -9,22 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Naman-2001/Stonks.git"
+    "url": "git+https://github.com/muskanrastogi1/Stonks-Backend.git"
   },
   "keywords": [
     "Stock-Market-Prediction",
     "IBM-Watson",
-    "Crypto",
     "Fintech",
-    "Cruptocurrency",
     "Bitcoin"
   ],
   "author": "Rajat Sablok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Naman-2001/Stonks/issues"
+    "url": "https://github.com/muskanrastogi1/Stonks-Backend/issues"
   },
-  "homepage": "https://github.com/Naman-2001/Stonks#readme",
+  "homepage": "https://github.com/muskanrastogi1/Stonks-Backend#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.3.0",
     "axios": "^0.21.0",
@@ -32,7 +30,6 @@
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
-    "crypto-news-api": "^2.2.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^4.1.1",
