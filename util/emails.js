@@ -238,7 +238,7 @@ const email = {
                           font-size: 24px;
                           line-height: 32px;
                         "
-                        ><a href='https://stonks-un.herokuapp.com/'>Click here</a> to know more.
+                        ><a href='https://stonks-un.netlify.app/'>Click here</a> to know more.
                         <br><br>
                       </span>
 
