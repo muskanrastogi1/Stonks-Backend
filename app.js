@@ -67,7 +67,7 @@ app.use("/user", require("./api/routes/user.routes"));
 app.use("/company", require("./api/routes/companies.routes"));
 app.use("/stock", require("./api/routes/stock.routes"));
 app.use("/scraper", require("./api/routes/scraper.routes"));
-app.use("/crypto", require("./api/routes/crypto.routes"));
+// app.use("/crypto", require("./api/routes/crypto.routes"));
 
 //This function will give a 404 response if an undefined API endpoint is fired
 app.use((req, res, next) => {
@@ -208,7 +208,7 @@ var k = schedule.scheduleJob("0 30 6 * * *", async function (fireDate) {
     });
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 //Start the server
 app.listen(PORT, () => {
