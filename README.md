@@ -7,6 +7,7 @@
 
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-blue?style=flat-square&logo=postman)](https://documenter.getpostman.com/view/12931122/TVYJ5GY6) 
 [![Presentation](https://img.shields.io/badge/Presentation-open-purple?style=flat-square)](https://github.com/muskanrastogi1/Stonks-Backend/blob/main/Stonks%20Presentation%20%7C%20Team%20UN.pdf)
+[![Demo](https://img.shields.io/badge/Demo-watch-red?style=flat-square&logo=youtube)](https://youtu.be/7aj5QUPuNbQ)
 
 ## Tracks Applied
 - FinTech
